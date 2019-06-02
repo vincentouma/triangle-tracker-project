@@ -6,7 +6,7 @@
     <title>Triangle Tracker</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css"  href="css/styles.css" />
-    
+    <link href="https://fonts.googleapis.com/css?family=Kalam&display=swap" rel="stylesheet">
 </head>
 <body>
     <div class="container">
@@ -15,15 +15,15 @@
     <h1>TRIANGLE TRACKER</h1>
     <!--<P>Do you have values you want to confirm which type of triangle will they form? <br> Find out,</P>*/!-->
     <p>Put your values in the box below</p>
-    <form class >
-        Enter First Value(a):<br>
-        <input type="number" id="a" number="firstvalue" required><br>
-        Enter Second value (b):<br>
+    <form class="jumbotron" >
+        <p class="font">Enter First Value(a):</p>
+        <input type="number" id="a" number="firstvalue" required ><br>
+        <p class="font">Second value (b):</p> 
         <input type="number" id="b" number="secondvalue" required><br>
-        Enter Third Value(c)<br>
+        <p class="font">Enter Third Value(c)</p>
         <input type="number" id="c" number="thirdvalue" required><br>
 <div clss=" button">
-        <button type="submit" value="submit" onclick="triangle()" class="btn-md">submit</button>
+        <br><button type="submit" value="submit" onclick="triangle()" class="btn-md">submit</button>
         <button type="reset" value="reset" class="btn-md" >reset</button>
         <script src="js/scripts.js"></script>
     </div>

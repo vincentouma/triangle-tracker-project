@@ -9,11 +9,29 @@
 body {
     background-image:url(https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/itCjTBE/abstract-blue-shiny-triangles-background-video-animation-hd-1920x1080_eu9g4htie__F0000.png);
     text-align: center;
+
 }
 h1{
     font-family: 'Permanent Marker', cursive;
     color: white;
     box-shadow: skyblue;
+}
+.button{
+    padding: 10%;
+}
+p{
+    font-family: 'Kalam', cursive;
+    font-size: x-large
+}
+.font{
+    font-size: larger;
+}
+input{
+    width:20%;
+    padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  resize: vertical;
 }
 
 
