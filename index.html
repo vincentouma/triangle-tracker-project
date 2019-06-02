@@ -9,21 +9,24 @@
     
 </head>
 <body>
+    <div class="container">
+        <div class="row">
     <h1>TRIANGLE TRACKER</h1>
     <P>Do you have values you want to confirm which type of triangle will they form? <br> Find out,</P>
     <form>
         Enter First Value(a):<br>
-        <input type="number" id="a" number="firstvalue"><br>
+        <input type="number" id="a" number="firstvalue" required><br>
         Enter Second value (b):<br>
-        <input type="number" id="b" number="secondvalue"><br>
+        <input type="number" id="b" number="secondvalue" required><br>
         Enter Third Value(c)<br>
-        <input type="number" id="c" number="thirdvalue"><br>
+        <input type="number" id="c" number="thirdvalue" required><br>
 
         <button type="submit" value="submit" onclick="triangle()">submit</button>
-        <button type="reset" value="reset" onclick="triangle()">reset</button>
+        <button type="reset" value="reset" >reset</button>
         <script src="js/scripts.js"></script>
 
     </form>
-    
+</div>
+</div>
 </body>
 </html>
