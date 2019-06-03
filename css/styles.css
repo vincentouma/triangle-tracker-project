@@ -1,67 +1,54 @@
-
-
-
-
-
-
-
-
 body {
-    background-image:url(https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/itCjTBE/abstract-blue-shiny-triangles-background-video-animation-hd-1920x1080_eu9g4htie__F0000.png);
-    text-align: center;
+  background-image: url(https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/itCjTBE/abstract-blue-shiny-triangles-background-video-animation-hd-1920x1080_eu9g4htie__F0000.png);
+  text-align: center;
+}
 
+h1 {
+  font-family: 'Signika Negative', sans-serif;
+  color: white;
+  text-shadow: skyblue;
+  font-size: xx-large
 }
-h1{
-    font-family: 'Signika Negative', sans-serif;
-    color: white;
-    text-shadow: skyblue;
-    font-size:xx-large
+
+.button {
+  padding: 10%;
 }
-.button{
-    padding: 10%;
+
+p {
+  font-family: 'Kalam', cursive;
+  font-size: x-large
 }
-p{
-    font-family: 'Kalam', cursive;
-    font-size: x-large
+
+.font {
+  font-size: larger;
 }
-.font{
-    font-size: larger;
-}
-input{
-    width:20%;
-    padding: 12px;
+
+input {
+  width: 20%;
+  padding: 12px;
   border: 1px solid #ccc;
   border-radius: 4px;
   resize: vertical;
 }
+
 a {
-    background-color: skyblue;
-    color: white;
-    padding: 14px 25px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    width: 15%;
-    padding-bottom: 3%;
-    font-family: 'Signika Negative', sans-serif;
-    font-size:xx-large
-  }
-  span{
-    font-family: 'Signika Negative', sans-serif;
-    font-size: larger;
-      padding-top: 15%;
-  }
-  
+  background-color: skyblue;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  width: 15%;
+  padding-bottom: 3%;
+  font-family: 'Signika Negative', sans-serif;
+  font-size: xx-large
+}
 
-
-
-
-
-
-
-
-
+span {
+  font-family: 'Signika Negative', sans-serif;
+  font-size: larger;
+  padding-top: 15%;
+}
 
 /*******major******/
-
 @import url(bootstrap.css);
