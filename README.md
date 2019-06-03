@@ -26,6 +26,30 @@ No known bugs currently but potential bug are welcome to be reported.
 *CSS
 *JavaScripts
 ##Behavior driven development.
+Behavior
+input
+output
+1.Blank form
+No number keyed in
+Alert enter value
+2.Value keyed in <=0
+Key in value <=0
+ Alert not a triangle
+3.Number keyed in should be equal
+Value keyed in are equal
+ Alert equilateral triangle
+4.Any two sides must be equal
+Two values keyed in out of three are equal.
+Isosceles triangle
+5.Both three sides must not be equal.
+Three keyed in values are not equal.
+Scalene triangle
+6.Sum of two sides must be >= one side.
+Value keyed in sum of any two sides is >=0
+Triangle cant be formed.
+7.All sides must be >0
+Value keyed in is <0
+Not a triangle.
 
 ## Support and contact details
 For any communications contact
