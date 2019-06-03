@@ -21,12 +21,26 @@ The aplication is also able to disqualify values that can not form a triangle.
 
 ## Known Bugs
 No known bugs currently but potential bug are welcome to be reported.
+
+
+
 ## Technologies Used
-*HTML
-*CSS
-*JavaScripts
+* HTML
+* CSS
+* JavaScripts
+
+
+
 ##Behavior driven development.
-Behavior
+|Behavior               | Input                 | Output                |
+|_______________________|_______________________|_______________________|
+| No number Keyed in    | Alert Enter value     | 
+
+
+
+
+
+ Behavior
 input
 output
 1.Blank form
