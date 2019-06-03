@@ -15,6 +15,7 @@ h1{
     font-family: 'Signika Negative', sans-serif;
     color: white;
     text-shadow: skyblue;
+    font-size:xx-large
 }
 .button{
     padding: 10%;
@@ -33,7 +34,7 @@ input{
   border-radius: 4px;
   resize: vertical;
 }
-a:link {
+a {
     background-color: skyblue;
     color: white;
     padding: 14px 25px;
@@ -42,6 +43,13 @@ a:link {
     display: inline-block;
     width: 15%;
     padding-bottom: 3%;
+    font-family: 'Signika Negative', sans-serif;
+    font-size:xx-large
+  }
+  span{
+    font-family: 'Signika Negative', sans-serif;
+    font-size: larger;
+      padding-top: 15%;
   }
   
 
