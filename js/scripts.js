@@ -18,7 +18,7 @@ function triangle(){
     }
     
     else if (a===b || b===c || c===a) {
-        alert ("isoscelese");
+        alert ("isosceles");
     }
     
     

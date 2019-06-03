@@ -33,6 +33,11 @@ No known bugs currently but potential bug are welcome to be reported.
 
 ## Behavior driven development.
 
+* The application should only accept numbers not strings if input data is string the output alerts enter a number.
+ * Application behavior allow only values >0, if values input is <=0 ,output alerts not a triangle.
+ * Application behavior allow equal values,if input values are equal,out put allerts equilateral triangle.
+ * Application allows two value out of three to be equal  but there sum must greater than the other value,if input is true then the output allerts isosceles triangle.
+ * application allow both values to be different ,if the input is true then the out put allerts scalene triangle.
 
 
 
