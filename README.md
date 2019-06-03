@@ -31,10 +31,9 @@ No known bugs currently but potential bug are welcome to be reported.
 
 
 
-##Behavior driven development.
-|Behavior               | Input                 | Output                |
-|_______________________|_______________________|_______________________|
-| No number Keyed in    | Alert Enter value     | 
+## Behavior driven development.
+
+
 
 
 
